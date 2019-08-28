@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "565664547584",
+    "firebase_url": "https://morning-safari-firebase-26468.firebaseio.com",
+    "project_id": "morning-safari-firebase-26468",
+    "storage_bucket": "morning-safari-firebase-26468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565664547584:android:0ed6c3fc0fb49f27",
+        "android_client_info": {
+          "package_name": "com.ghost.morningfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565664547584-lutae5ebh1t9j4cn5rpq00h4v270plue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8g67FPwo_XkWz5VDNyApilNUZ8Iqpx6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
